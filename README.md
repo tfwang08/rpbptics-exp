@@ -16,6 +16,6 @@
 
 ## 研究总方案
 
-- [π0.5 数据利用：预训练、中训练、后训练与仿真迁移](plans/2026-10-24-pi05-heterogeneous-data-sim.md)
+- [数据规模、类型与配比对 VLA / VLM 的影响](plans/2026-10-24-pi05-heterogeneous-data-sim.md)
 
-方案包含文献结论与复验决策、阶段数据对照、配比搜索、跨任务/机器人评估和曲线报告规范。已有结果图见[七组实验记录](experiments/2026-10-pi05-dexterous-hand-data-ablation.md#结果图表)；尚未开展的新实验不绘制结果曲线。
+研究先验证数据规模、类型与配比对 VLA 的影响；流程稳定后开展 VLM 实验，并验证 VLM→VLA 的迁移。方案包含文献结论与复验决策、阶段数据对照、跨任务/机器人评估和曲线报告规范。已有结果图见[七组实验记录](experiments/2026-10-pi05-dexterous-hand-data-ablation.md#结果图表)；尚未开展的新实验不绘制结果曲线。
