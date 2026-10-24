@@ -13,3 +13,7 @@
 ## 已记录实验
 
 - [π0.5 在 PandaDex 三任务上的数据消融（2026-10）](experiments/2026-10-pi05-dexterous-hand-data-ablation.md)
+
+## 待评审实验设计
+
+- [π0.5 异构数据训练：PandaDex 仿真目标](plans/2026-10-24-pi05-heterogeneous-data-sim.md)
